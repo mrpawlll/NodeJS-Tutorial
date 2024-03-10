@@ -1,0 +1,1 @@
+3rd and 4th part goes over the crude way of creating a NodeJS Server. There is a package called `Express` that manages alot of the server functionality such as routing, redirects and such.
